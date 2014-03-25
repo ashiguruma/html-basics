@@ -1,0 +1,13 @@
+# System Caches
+.DS_Store
+Thumbs.db
+
+# NPM Modules
+node_modules/
+npm-debug.log
+
+# Bower Components
+bower_components/
+
+# Vagrant files
+.vagrant
