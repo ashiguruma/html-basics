@@ -1,0 +1,26 @@
+body {
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+div#container {
+    width: 80%;
+    margin: 0 auto 0 auto;
+}
+
+#content {
+    width: 70%;
+    float: left;
+}
+
+#sidebar {
+    width: 30%;
+    margin-left: 70%;
+}
+
+h2.tags {
+    color: red;
+}
+
+h2.attributes {
+    color: #00cc00;
+}
